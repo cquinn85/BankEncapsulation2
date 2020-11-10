@@ -1,0 +1,13 @@
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\bin\Debug\netcoreapp3.1\BankEncapsulation2.exe
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\bin\Debug\netcoreapp3.1\BankEncapsulation2.deps.json
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\bin\Debug\netcoreapp3.1\BankEncapsulation2.runtimeconfig.json
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\bin\Debug\netcoreapp3.1\BankEncapsulation2.runtimeconfig.dev.json
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\bin\Debug\netcoreapp3.1\BankEncapsulation2.dll
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\bin\Debug\netcoreapp3.1\BankEncapsulation2.pdb
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\obj\Debug\netcoreapp3.1\BankEncapsulation2.csprojAssemblyReference.cache
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\obj\Debug\netcoreapp3.1\BankEncapsulation2.AssemblyInfoInputs.cache
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\obj\Debug\netcoreapp3.1\BankEncapsulation2.AssemblyInfo.cs
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\obj\Debug\netcoreapp3.1\BankEncapsulation2.csproj.CoreCompileInputs.cache
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\obj\Debug\netcoreapp3.1\BankEncapsulation2.dll
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\obj\Debug\netcoreapp3.1\BankEncapsulation2.pdb
+C:\Users\cequi\repos\BankEncapsulation2\BankEncapsulation2\obj\Debug\netcoreapp3.1\BankEncapsulation2.genruntimeconfig.cache
